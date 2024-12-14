@@ -1,5 +1,5 @@
 <p align="center">
- <img src = "./0.png" width="400">
+ <img src = "./0.png">
 </p>
 
 말레이시아 서부 숲 속 나무
